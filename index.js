@@ -4,5 +4,6 @@ function theBeatlesPlay(musicians, instruments){
 }
 var empty = [''];
 for (i = 0; i < 4; i++) {
-   = musicians + "plays" + instruments
+  empty = musicians + "plays" + instruments
 }
+console.log(empty)
