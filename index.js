@@ -5,5 +5,4 @@ function theBeatlesPlay(musicians, instruments){
     let empty = i + ' plays ' + i
 }
 }
-theBeatlesPlay()
-musicians.forEach()
+theBeatlesPlay();
