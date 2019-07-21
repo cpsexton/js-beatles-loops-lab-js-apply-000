@@ -2,7 +2,7 @@
 function theBeatlesPlay(musicians, instruments){
   var empty = []
   for (let i = 0; i <= 3; i++) {
-    let empty = i + ' plays ' + i
+    let empty = musicians(i) + ' plays ' + i
 }
 }
 theBeatlesPlay();
