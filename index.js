@@ -5,4 +5,4 @@ function theBeatlesPlay(musicians, instruments){
     let empty = musicians[i] + ' plays ' + instruments[i];
 }
 }
-theBeatlesPlay();
+console.log(empty);
