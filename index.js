@@ -6,3 +6,4 @@ function theBeatlesPlay(musicians, instruments){
 }
 }
 theBeatlesPlay()
+musicians.forEach()
