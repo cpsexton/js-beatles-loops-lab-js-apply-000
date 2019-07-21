@@ -6,4 +6,3 @@ var empty = [''];
 for (i = 0; i < 4; i++) {
   empty = musicians + "plays" + instruments
 }
-console.log(empty)
