@@ -2,4 +2,4 @@
 function theBeatlesPlay(musicians, instruments){
   
 }
-var empty = ['']
+var empty = [''];
