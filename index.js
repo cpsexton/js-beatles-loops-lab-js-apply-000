@@ -1,8 +1,8 @@
 // add solution here
 function theBeatlesPlay(musicians, instruments){
-  var empty = [i, "plays ", i]
+  var empty = []
   for (let i = 0; i <= 3; i++) {
-   console.log(empty[i]);
+   
 }
 }
 theBeatlesPlay()
